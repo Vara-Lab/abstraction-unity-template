@@ -1,6 +1,8 @@
 # Unity REST API Template: Auth & Command Client
 
-A Unity project template for connecting to backend APIs with support for **authentication (register/login)** and **command execution**, designed for scalable use in Web3 or Web2 environments.
+A Unity project template that uses  **abstraction server to interact with smart programs on the Vara Network**, allowing the client to **send messages and read state** from on-chain contracts.
+
+This architecture enables seamless integration between Unity and actor-based smart contracts through a RESTful backend layer.
 
 ---
 
